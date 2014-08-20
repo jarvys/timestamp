@@ -6,7 +6,7 @@ Install
 =======
 
 ```Bash
-pip install timestmap
+pip install timestamp
 ```
 
 Usage
